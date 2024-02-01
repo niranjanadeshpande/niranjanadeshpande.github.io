@@ -1,7 +1,7 @@
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
-{%- if site.cv -%}
+{% if site.cv %}
   <a href="{{ '/assets/pdf/CV_NiranjanaDeshpande.pdf' | append: site.cv | relative_url }}"><i class="fas fa-file-pdf""></i></a>
 {% endif %}
 {% if site.telegram_username %}
