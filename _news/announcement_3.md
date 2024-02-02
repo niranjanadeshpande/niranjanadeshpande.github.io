@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm presenting my research at the Doctoral Symposium at ESEC/FSE in San Francisco. Come listen to my talk!
+I'm presenting my research at the Doctoral Symposium at ESEC/FSE in December San Francisco.
