@@ -9,18 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Rochester, New York, 14623</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Niranjana, and I'm a computing and information sciences Ph.D. candidate at [Rochester Institute of Technology](https://www.rit.edu/). I am advised by [Dr. Naveen Sharma](https://www.linkedin.com/in/nsharma2/) and fortunate to be mentored by [Dr. Mohamed Wiem Mkaouer](https://mkaouer.net/author/mohamed-wiem-mkaouer/), [Dr. Ernest Fokoue](https://www.rit.edu/directory/epfeqa-ernest-fokoue) and [Dr. Qi Yu](https://www.rit.edu/mining/qi-yu).  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I conduct interdisciplinary research at the intersection of software engineering and machine learning. Specifically, (1) I study how evolutionary algorithm performance varies when applied to hard software engineering problems, (2) Leverage statistical ML techniques to derive insights and recommend algorithms at a fine-grained, problem-instance level, and (3) Use these models to design systems that dynamically select algorithms to improve computational resource usage. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining RIT, I was an undergraduate student at the [Cummins College of Engineering for Women](https://www.cumminscollege.org/academics/departments/computer-engineering/), where I earned my Bachelor's in Computer Engineering.
