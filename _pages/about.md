@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D. Candidate.</a> 
+subtitle: <a href='#'>Ph.D. Candidate</a> 
 profile:
   align: right
   image: prof_pic.jpg
