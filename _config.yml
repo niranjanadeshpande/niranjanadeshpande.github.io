@@ -162,8 +162,6 @@ external_sources:
 
 collections:
   news:
-    scrollable: true
-    limit: 3
     defaults:
       layout: post
     output: true
@@ -175,7 +173,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true
-  limit: 4
+  limit: 2
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
