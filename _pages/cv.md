@@ -5,4 +5,4 @@ title: cv
 nav: true
 nav_order: 5
 ---
-<embed src="https://niranjanadeshpande.github.io/assets/CV_NiranjanaDeshpande.pdf" type="application/pdf" />
+<embed src="https://niranjanadeshpande.github.io/assets/pdf/CV_NiranjanaDeshpande.pdf" type="application/pdf" />
